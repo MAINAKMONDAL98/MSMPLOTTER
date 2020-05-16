@@ -1,4 +1,5 @@
-# MSMPLOTTER
+# MSMPLOTTER Library V1.0.0 for Arduino
+## Written by: MAINAK MONDAL.
 Plotting on Serial Monitor not in Serial Plotter in Arduino Ide.
 We can check Serial Communication in Arduino IDE using Serial Monitor and Serial Plotter.
 Serial PLotter is specifiacaly introdced for plotting curves and live data analysis with graph.
