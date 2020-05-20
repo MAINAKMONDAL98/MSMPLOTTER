@@ -4,7 +4,7 @@
 ## What is MSMPLOTTER?
 This library can Plot on Serial Monitor. (not on Serial Plotter in Arduino Ide).
 This library can plot graph of some sequential values.Timestump will be taken automatically.
-## How to use the library?
+## How to usse the library?
 //include MSMPLOTTER<br/>
 #include<MSMPLOTTER.h><br/>
 void setup() {<br/>
