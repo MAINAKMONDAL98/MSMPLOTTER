@@ -5,7 +5,7 @@
 This library can Plot on Serial Monitor. (not on Serial Plotter in Arduino Ide).
 This library can plot graph of some sequential values.Timestump will be taken automatically.
 ## How to use the library?
-[![arduino-library-badge](https://www.ardu-badge.com/badge/MyLibrary.svg?)](https://www.ardu-badge.com/MyLibrary)
+[![arduino-library-badge](https://www.ardu-badge.com/badge/MSMPLOTTER.svg?)](https://www.ardu-badge.com/MyLibrary)<br/>
 //include MSMPLOTTER<br/>
 #include<MSMPLOTTER.h><br/>
 void setup() {<br/>
